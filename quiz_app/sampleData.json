@@ -6,7 +6,5 @@
     {"question":"question4","answer":["answer1","answer2","answer3","answer4"],"correctAnswer":1},
     {"question":"question5","answer":["answer1","answer2","answer3","answer4"],"correctAnswer":1},
     {"question":"question6","answer":["answer1","answer2","answer3","answer4"],"correctAnswer":3},
-    {"question":"question7","answer":["answer1","answer2","answer3","answer4"],"correctAnswer":3},
-    {"question":"question8","answer":["answer1","answer2","answer3","answer4"],"correctAnswer":3},
-    {"question":"question9","answer":["answer1","answer2","answer3","answer4"],"correctAnswer":3}
+    {"question":"question7","answer":["answer1","answer2","answer3","answer4"],"correctAnswer":3}
 ]
